@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61aea3e2-8fd2-48ea-9f8e-ebcebb646ba9": {
+      "ProjectGuid": "61aea3e2-8fd2-48ea-9f8e-ebcebb646ba9",
+      "DisplayName": "Mailer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
